@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:wght@500&display=swap');
+
+nav{
+    background-color: white !important;
+    color: #FF9800;
+    box-shadow: 0px 4px 4px -2px #666;
+}
+
+.logo
+{
+    width: 100%;
+    max-width:200px;
+    max-height: 60px;
+}
+
+.anchor
+{
+    color: black !important;
+    margin: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    transition: 400ms ease;
+}
+.anchor:hover
+{
+    color:#FF9800 !important;
+    
+}
+.bookbtn
+{
+    border: none;
+    width: 140px;
+    height: 40px;
+    background-color: #FF9800;
+    color: white;
+    transition: transform 0.3s ease;
+}
+.bookbtn:hover
+{
+    border: 1px solid #FF9800;
+    color: #FF9800;
+    transform: scale(1.1);
+    background-color: white;
+}
