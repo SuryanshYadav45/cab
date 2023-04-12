@@ -1,5 +1,7 @@
 # how to run the app
 
-running this site is very simple all you need to do is to open the Cab folder in the ide and in the terminal type npm start ,this
-will run the app on the localhost:3000.
+running this site is very simple all you need to do is :
+* Open the Cab folder in the ide .
+* In the terminal type npm install (this will download all the package that is required in this project).
+* Now type npm start to run the app.
 
